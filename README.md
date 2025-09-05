@@ -1,2 +1,4 @@
-# Python-EDA-projects
-Diwali-Sales-Analysis -> Exploratory Data Analysis on Diwali Sales dataset using Python (pandas, matplotlib, seaborn).
+# Python_Diwali_Sales_Analysis
+Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
+
+
